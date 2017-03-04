@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Circular Reveal</string>
+    <string name="this_is_a_text_inside_a_dialog">This is a text inside a dialog</string>
+    <string name="done">Done</string>
+    <string name="pinned_quote">Pinned Quote</string>
+    <string name="click_me">Click Me</string>
+    <string name="this_dialog_opens_with_reveal_effect">This dialog opens with Reveal Effect</string>
+    <string name="thanks_its_working">Thanks its Working</string>
+    <string name="close">Close</string>
+</resources>
